@@ -1,0 +1,121 @@
+body{
+    font-family: sans-serif;
+}
+.top-bg{
+    background-color: #e0f7e2;
+
+}
+.container{
+    margin-bottom: 50px;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.btn-success{
+    border-radius: 50px
+}
+.nav-container{
+    padding: 10px;
+}
+.navbar-collapse ul li{
+    row-gap: 20px;
+}
+.big-image{
+    width: 555px;
+    position: relative;
+    bottom: 50px;
+}
+.red-text{
+    color: red;
+
+}
+.top-text{
+    line-height: 35px;
+}
+.first-span{
+    color: #198754;
+}
+.top-highlights{
+    font-weight: 800;
+}
+.first-cards img{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+.first-cards{
+    border: none;
+}
+.first-row{
+    width: 270px;
+    height: 250px;
+
+}
+.first-card-body{
+    text-align: center;
+    margin-top: 10px;
+}
+.card1{
+    background-color: #f1fcf2;
+}
+.card2{
+    box-shadow: 2px 2px 20px gainsboro;
+}
+.text1{
+    padding-top: 30px;
+}
+.blue-marked{
+    color: #413960;
+    text-align: center;
+}
+.learn{
+    color: gray;
+    font-size: small;
+}
+.bottom-card{
+    padding: 20px;
+}
+.second-row{
+    border: none;
+    box-shadow: 2px 2px 20px gainsboro;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+
+}
+.card-footer img{
+    width: 24px;
+    height: 24px;
+    margin-right: 3px;
+}
+.footer-text{
+    font-size: 14px;
+    padding-top: 2px;
+}
+.corse{
+    font-weight: 600;
+}
+.testimonial{
+
+}
+.testi{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.tes img{
+    width: 10%;
+    margin-right: 40px;
+}
+.tes{
+    align-items: center;
+    justify-content: center;
+}
+.col-md-2{
+
+}
+.footer-bg{
+    height: 370px;
+    background-color: #413960;
+}
