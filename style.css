@@ -1,5 +1,8 @@
 body{
     font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 .top-bg{
     background-color: #e0f7e2;
@@ -97,12 +100,9 @@ body{
 .corse{
     font-weight: 600;
 }
-.testimonial{
-
-}
 .testi{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 }
 .tes img{
     width: 10%;
@@ -111,9 +111,6 @@ body{
 .tes{
     align-items: center;
     justify-content: center;
-}
-.col-md-2{
-
 }
 .footer-bg{
     background-color: #0b0622;
