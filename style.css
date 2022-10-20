@@ -116,6 +116,50 @@ body{
 
 }
 .footer-bg{
-    height: 370px;
-    background-color: #413960;
+    background-color: #0b0622;
+    padding: 70px 0;
+}
+.container-last{
+    max-width: 1170px;
+    margin: auto;
+}
+.rwo{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer-col1{
+    width: 40%;
+    color: white;
+}
+.footer-col2{
+    width: 20%;
+    
+}
+.footer-col2 ul{
+    list-style: none;
+}
+.list-heading{
+    font-size: 19px;
+    font-weight: 700;
+}
+.footer-col2 ul li{
+    color: white;
+    line-height: 1.8;
+}
+@media (max-width: 850px) {
+    .footer-col1{
+        width: 50%;
+    }
+    .footer-col2{
+        width: 50%;
+    }
+    .last{
+        margin-top: 30px;
+    }
+}
+@media (max-width:400px) {
+    .container{
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
